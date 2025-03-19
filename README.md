@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/adaircharles/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adaircharles/azure-network-protocols)
 -  <b>DNS within Azure VMs (expand on this description)</b>
-    - [add description here](https://github.com/adaircharles/dns-testing)
+    - [Using DNS between Domain Controller and Client Azure Virtual Machines(https://github.com/adaircharles/dns-testing)
 -   <b> Configuring Network File Shares and Permissions within Active Directory / Azure VMs </b>
     - [add description here](https://github.com/adaircharles/nfs-permissions)
 <h2>🤳Connect with me:</h2>
