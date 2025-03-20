@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/adaircharles/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/adaircharles/configure-ad)
--  <b>DNS within Azure VMs (expand on this description)</b>
+-  <b>DNS within Azure Virtual Machines </b>
     - [Using DNS with Domain Controller and Client Azure Virtual Machines](https://github.com/adaircharles/dns-testing)
 -   <b> Network File Shares and Permissions within Azure VMs </b>
     - [Configuring Network File Shares and Permissions within Active Directory / Azure VMs](https://github.com/adaircharles/nfs-permissions)
